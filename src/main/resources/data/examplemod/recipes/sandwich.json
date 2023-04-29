@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:bread"
+    },
+    "X": {
+      "item": "examplemod:tomato"
+    },
+    "A": {
+      "item": "minecraft:cooked_beef"
+    },
+    "B": {
+      "item": "examplemod:lettuce"
+    },
+    "C": {
+      "item": "examplemod:bacon"
+    }
+  },
+  "pattern": [
+    "#BA",
+    "CX#",
+    "   "
+  ],
+  "result": {
+    "item": "examplemod:sandwich"
+  }
+}

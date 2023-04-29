@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "examplemod:acmium"
+    }
+  },
+  "pattern": [
+    "XX ",
+    "X# ",
+    " # "
+  ],
+  "result": {
+    "item": "examplemod:example_axe"
+  }
+}

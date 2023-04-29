@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "X": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "pattern": [
+    "#X "
+  ],
+  "result": {
+    "item": "examplemod:bacon"
+  }
+}

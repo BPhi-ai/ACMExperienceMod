@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "examplemod:acmium"
+    }
+  },
+  "pattern": [
+    "   ",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "item": "examplemod:example_boots"
+  }
+}

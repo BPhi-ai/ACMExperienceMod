@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:milk_bucket"
+    },
+    "X": {
+      "item": "examplemod:tapioca"
+    },
+    "A": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "pattern": [
+    "#X ",
+    " A ",
+    "   "
+  ],
+  "result": {
+    "item": "examplemod:boba"
+  }
+}

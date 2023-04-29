@@ -1,0 +1,61 @@
+{
+  "item.examplemod.acmium": "ACMium",
+  "item.examplemod.raw_acmium": "Raw ACMium",
+  "item.examplemod.example_sword": "ACMium Sword",
+  "item.examplemod.example_pickaxe": "ACMium Pickaxe",
+  "item.examplemod.example_axe": "ACMium Axe",
+  "item.examplemod.example_hoe": "ACMium Hoe",
+  "item.examplemod.example_helmet": "ACMium Helmet",
+  "item.examplemod.example_chestpiece": "ACMium Chestpiece",
+  "item.examplemod.example_leggings": "ACMium Leggings",
+  "item.examplemod.example_boots": "ACMium Boots",
+  "item.examplemod.chomper_spawn_egg": "Chomper Spawn Egg",
+
+  "item.examplemod.boba": "Boba Milk Tea",
+  "item.examplemod.kbbq": "KBBQ",
+  "item.examplemod.ramen": "Ramen",
+  "item.examplemod.banhbot": "Banh Bot",
+  "item.examplemod.tomato": "Tomato",
+  "item.examplemod.lettuce": "Lettuce",
+  "item.examplemod.tapioca": "Tapioca",
+  "item.examplemod.salad": "Salad",
+  "item.examplemod.sandwich": "Sandwich",
+  "item.examplemod.bacon": "Bacon",
+  "item.examplemod.cooked_egg": "Cooked Egg",
+
+  "item.minecraft.potion.effect.freeze_potion": "Freeze Potion",
+  "item.minecraft.splash_potion.effect.freeze_potion": "Splash Potion of Freezing",
+  "item.minecraft.lingering_potion.effect.freeze_potion": "Lingering Potion of Freezing",
+  "item.minecraft.tipped_arrow.effect.freeze_potion": "Freezing Tipped Arrow",
+
+  "item.minecraft.potion.effect.drunk_potion": "Drunk Madness Potion",
+  "item.minecraft.splash_potion.effect.drunk_potion": "Splash Potion of Drunk Madness",
+  "item.minecraft.lingering_potion.effect.drunk_potion": "Lingering Potion of Drunk Madness",
+  "item.minecraft.tipped_arrow.effect.drunk_potion": "Drunk Tipped Arrow",
+
+  "item.minecraft.potion.effect.energy_potion": "Midterm Energy Boost Potion",
+  "item.minecraft.splash_potion.effect.energy_potion": "Splash Potion of Midterm Energy",
+  "item.minecraft.lingering_potion.effect.energy_potion": "Lingering Potion of Midterm Energy",
+  "item.minecraft.tipped_arrow.effect.energy_potion": "Midterm Energy-Tipped Arrow",
+
+  "effect.examplemod.freeze": "Freeze",
+
+  "block.examplemod.acm_block": "Block of ACM",
+  "block.examplemod.acm_ore": "ACMium ore",
+  "block.examplemod.acm_logo": "ACM Logo",
+  "block.examplemod.deepslate_acm_ore": "Deepslate ACMium Ore",
+  "block.examplemod.brian_block": "Brian's Block",
+  "block.examplemod.mfz_logo": "Mod Free Zone Block",
+  "block.examplemod.pi_symbol": "Pi Block",
+  "block.examplemod.cool_beans": "ACM Cool Bean",
+  "block.examplemod.sad_taco": "Sad Taco",
+
+  "enchantment.examplemod.lightning_striker": "Lightning Striker",
+  "enchantment.examplemod.tnt_spam": "TNT Spam",
+  "enchantment.examplemod.noisy_villager": "Noisy Villagers",
+  "enchantment.examplemod.secret_service": "Secret Service",
+  "enchantment.examplemod.bee_swarm": "Bee Swarm",
+  "enchantment.examplemod.xp_explosion": "EXP Explosion",
+
+  "itemGroup.tutorialtab": "ACMium Tutorial Tab"
+}

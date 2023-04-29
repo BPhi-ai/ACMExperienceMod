@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "examplemod:tomato"
+    },
+    "X": {
+      "item": "examplemod:lettuce"
+    },
+    "A": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "#X ",
+    " A ",
+    "   "
+  ],
+  "result": {
+    "item": "examplemod:salad"
+  }
+}

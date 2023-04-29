@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "X": {
+      "item": "minecraft:cooked_beef"
+    },
+    "A": {
+      "item": "examplemod:cooked_egg"
+    },
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "C": {
+      "item": "examplemod:lettuce"
+    },
+    "D": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "pattern": [
+    "#XB",
+    "CA ",
+    " D "
+  ],
+  "result": {
+    "item": "examplemod:ramen"
+  }
+}

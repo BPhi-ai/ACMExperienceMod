@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:egg"
+    },
+    "X": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "pattern": [
+    "#X "
+  ],
+  "result": {
+    "item": "examplemod:cooked_egg"
+  }
+}
